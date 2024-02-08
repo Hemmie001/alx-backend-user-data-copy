@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module implements a hash_password function 
+This module implements a hash_password function
 that expects one string argument name password and
 returns a salted, hashed password, which is a byte string
 """
